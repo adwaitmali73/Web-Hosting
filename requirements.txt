@@ -1,8 +1,10 @@
-keras==2.11.0
-mediapipe==0.9.3.0
-numpy==1.23.5
-opencv_contrib_python==4.7.0.72
-opencv_python==4.7.0.68
-Pillow==9.2.0
-SpeechRecognition==3.10.0
 streamlit==1.22.0
+mediapipe==0.9.3.0
+opencv_python==4.7.0.68
+opencv_contrib_python==4.7.0.72
+numpy==1.23.5
+SpeechRecognition==3.10.0
+keras==2.11.0
+Pillow==9.2.0
+
+
